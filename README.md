@@ -33,6 +33,8 @@ Publish the website in the LocalHost.
 ## PROGRAM:
 ```
 
+```
+
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -119,10 +121,10 @@ Publish the website in the LocalHost.
                 <hr>
             </div>
             <div class="h1">
-                <h1> The Power Of Your Subconcious Mind </h1>
+                <h1> Decoding The Software Industry </h1>
             </div>
             <div class="para">
-                <p> Unlock Your Master Key To Success </p>
+                <p> Unlock The secrets of the software industry with this insightful handbook </p>
             </div>
             <div class="pic">
                 <img src="pic3.jpg" width="150" height="150" >
@@ -144,11 +146,11 @@ Publish the website in the LocalHost.
 </html>
 
 
-
-
 ```
 
+
 ## OUTPUT:
+![Screenshot (32)](https://github.com/Preethijgan/cover/assets/144870652/4b9214b0-c2d1-4b82-9767-b6653b11571c)
 
 
 ## RESULT:
