@@ -119,10 +119,10 @@ Publish the website in the LocalHost.
                 <hr>
             </div>
             <div class="h1">
-                <h1> Responsive Web Design with HTML5 and CSS </h1>
+                <h1> The Power Of Your Subconcious Mind </h1>
             </div>
             <div class="para">
-                <p> Develop future-proof responsive websites using the latest HTML5 and CSS techniques </p>
+                <p> Unlock Your Master Key To Success </p>
             </div>
             <div class="pic">
                 <img src="pic3.jpg" width="150" height="150" >
@@ -146,11 +146,10 @@ Publish the website in the LocalHost.
 
 
 
-
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-11-29 205013.png>)
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
